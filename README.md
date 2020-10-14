@@ -9,6 +9,10 @@ Datasets include election results on city, district, county, state and national 
 
 [Here is a link to the dataset](https://www.kaggle.com/tunguz/us-elections-dataset)
 
+### Key Points
+The Project baseline is centered on two datasets. In PRESIDENTIAL ELECTION BY COUNTY, a regression model was built to predict the likelihood of a party winning an election which is limited only to the dominant parties. The REPUBLICAN AND DEMOCRAT party in the year 2016 Election.
+ The Second dataset is the total observation of Presidential Election over a period of 40years.And we aimed to build a classification model that profiles a candidate chances of winning an Election. 
+
 ### Summary of the Dataset
 
   1.   ##### This folder 📁 
