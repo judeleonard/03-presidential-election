@@ -11,14 +11,14 @@ Datasets include election results on city, district, county, state and national 
 
 ### Summary of the Dataset
 
-    ##### This folder 📁 
+  1.   ##### This folder 📁 
 provides an analysis of how the various data in the dataset folder were merged together. It provides a summary of each respective data in the folder before it was merged
 
-     ##### The Pipeline 📁 
+  2.   ##### The Pipeline 📁 
  This includes various files and folders used to create a pipeline using the data obtained. Deployed model, preprocess data, the training and testing model obtained and the pipeline analysis is shown here.
 
-     ##### The model 📁 
+  3.  ##### The model 📁 
  This illustrates a regression model analysis of the dataset. The presidential election data was used to carry out this anlysis due to time constraint on testing the remaining dataset.
 
-    ##### The Images 📁 
+  4.  ##### The Images 📁 
 This shows various visuals used in pipeline model, regression model anlysis and other images needed to report the anlysis of this data.
